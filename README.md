@@ -12,9 +12,9 @@ Mit dieser API stehen dir als Entwickler alle Wege offen, ein Hologramm zu erste
 
 ## API
 ```java
-ArrayList<Object> objects = new ArrayList<>(); //create a object arraylist
+ArrayList<Object> objects=new ArrayList<>(); //create a object arraylist
 objects.add(new ItemStack(Material.BEACON)); //add a itemstack to the arraylist
 objects.add("Example"); //add a string to the arraylist
 
-HologramAPI.sendHologram(player, objects.toArray(), 30); //send the hologram to the player (player, objects, seconds)
+HologramAPI.sendHologram(player,objects.toArray(),30); //send the hologram to the player (player, objects, seconds)
 ```
