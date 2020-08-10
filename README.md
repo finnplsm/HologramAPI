@@ -1,6 +1,6 @@
 # HologramAPI
 [![](https://jitpack.io/v/HttpLielex/HologramAPI.svg)](https://jitpack.io/#HttpLielex/HologramAPI)
-[![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)]
+![](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
 
 Create a hologram that follows the players movements
 
