@@ -33,7 +33,7 @@ HologramAPI.sendHologram(player,objects.toArray(),30); //send the hologram to th
 </dependency>
 ```
 #### Gradle
-```xml
+```gradle
 repositories {
     ...
     maven { url 'https://jitpack.io' }
