@@ -1,5 +1,6 @@
 # HologramAPI
 Create a hologram that follows the players movements
+
 [![](https://jitpack.io/v/HttpLielex/HologramAPI.svg)](https://jitpack.io/#HttpLielex/HologramAPI)
 
 ## SpigotMC
