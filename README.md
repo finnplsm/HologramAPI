@@ -29,5 +29,6 @@ HologramAPI.sendHologram(player,objects.toArray(),30); //send the hologram to th
 <dependency>
     <groupId>com.github.HttpLielex</groupId>
     <artifactId>HologramAPI</artifactId>
-	<version>1.1.0</version>
-</dependency>```
+    <version>1.1.0</version>
+</dependency>
+```
