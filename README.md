@@ -18,3 +18,16 @@ objects.add("Example"); //add a string to the arraylist
 
 HologramAPI.sendHologram(player,objects.toArray(),30); //send the hologram to the player (player, objects, seconds)
 ```
+## Download
+#### Maven
+```xml
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+
+<dependency>
+    <groupId>com.github.HttpLielex</groupId>
+    <artifactId>HologramAPI</artifactId>
+	<version>1.1.0</version>
+</dependency>```
