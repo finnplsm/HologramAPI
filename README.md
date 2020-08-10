@@ -32,3 +32,15 @@ HologramAPI.sendHologram(player,objects.toArray(),30); //send the hologram to th
     <version>1.1.0</version>
 </dependency>
 ```
+#### Gradle
+```xml
+repositories {
+    ...
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation 'com.github.HttpLielex:HologramAPI:v1.1.0'
+}
+```
+
